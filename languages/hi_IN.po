@@ -1,0 +1,1098 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: coming-soon-master\n"
+"POT-Creation-Date: 2019-06-01 18:27+0530\n"
+"PO-Revision-Date: 2019-06-01 18:27+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: pages\n"
+
+#: coming-soon-master.php:46 pages/button.php:11 pages/content.php:70
+#: pages/countdown-settings.php:11 pages/logo-settings.php:11
+#: pages/seo-settings.php:11
+msgid "Settings"
+msgstr ""
+
+#: functions/get-save-data.php:50
+msgid "Coming Soon"
+msgstr ""
+
+#: functions/get-save-data.php:92
+msgid "DAYs"
+msgstr ""
+
+#: functions/get-save-data.php:93 pages/countdown-settings.php:116
+msgid "Hours"
+msgstr ""
+
+#: functions/get-save-data.php:94 pages/countdown-settings.php:126
+msgid "Minutes"
+msgstr ""
+
+#: functions/get-save-data.php:95 pages/countdown-settings.php:136
+msgid "Seconds"
+msgstr ""
+
+#: functions/get-save-data.php:96
+msgid ""
+"Creative <span>And</span> Flexible Design, Feel The <span>Difference</span>"
+msgstr ""
+
+#: functions/get-save-data.php:97
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id dolor "
+"dui, dapibus gravida elit. Donec conseenigmat laore gittis. Suspendisse "
+"ultricies ultrices viverra. Morbi rhoncus laoreet tincidunt. Mauris interdum "
+"convallis metus. Suspendiss lacus est."
+msgstr ""
+
+#: functions/get-save-data.php:120
+msgid "Read More"
+msgstr ""
+
+#: functions/get-save-data.php:122
+msgid "Notify Me"
+msgstr ""
+
+#: functions/get-save-data.php:138
+msgid "Coming Soon is Loading"
+msgstr ""
+
+#: functions/get-save-data.php:156
+msgid "WE'RE WEB DESIGNER"
+msgstr ""
+
+#: functions/get-save-data.php:157
+msgid "WHO WE ARE?"
+msgstr ""
+
+#: functions/get-save-data.php:158 functions/get-save-data.php:179
+msgid ""
+"Blessed have fruit created open tree morning us fifth stars living there "
+"living divide morning."
+msgstr ""
+
+#: functions/get-save-data.php:177
+msgid "GET IN TOUCH WITH US"
+msgstr ""
+
+#: functions/get-save-data.php:178
+msgid "CONTACT"
+msgstr ""
+
+#: functions/get-save-data.php:182
+msgid "123 Street, City"
+msgstr ""
+
+#: functions/get-save-data.php:207 functions/get-save-data.php:209
+msgid "Coming soon page"
+msgstr ""
+
+#: functions/get-save-data.php:208
+msgid "Thanks for submitting your email. We will notify you once we launch"
+msgstr ""
+
+#: functions/get-save-data.php:210
+msgid "Hey Some one has subscribed to the Coming Soon page"
+msgstr ""
+
+#: functions/get-save-data.php:230
+msgid "Subscribe to our newsletter"
+msgstr ""
+
+#: functions/get-save-data.php:231
+msgid ""
+"Waters place given years tree every. Sixth whales. Divide fourth don't, "
+"behold herb third. Said brought saying - Coming Soon."
+msgstr ""
+
+#: functions/get-save-data.php:232 pages/contact-info.php:87
+#: pages/newsletter.php:117
+msgid "Email Address"
+msgstr ""
+
+#: functions/get-save-data.php:233 pages/subscription.php:12
+msgid "Subscription"
+msgstr ""
+
+#: functions/get-save-data.php:234
+msgid "You have successfully subscribed our newsletter."
+msgstr ""
+
+#: functions/get-save-data.php:275
+msgid "© 2017 Coming Soon Master Developed By"
+msgstr ""
+
+#: functions/get-save-data.php:276 pages/content.php:34 pages/content.php:147
+msgid "WebHunt Infotech"
+msgstr ""
+
+#: pages/about-us.php:7 pages/about-us.php:29
+msgid "ABOUT US"
+msgstr ""
+
+#: pages/about-us.php:8 pages/basic-styling.php:8 pages/button.php:8
+#: pages/contact-info.php:8 pages/copyright.php:8
+#: pages/countdown-settings.php:8 pages/dashboard.php:31 pages/help.php:8
+#: pages/logo-settings.php:8 pages/newsletter.php:8 pages/seo-settings.php:8
+#: pages/social-profile.php:8 pages/subscription.php:8 pages/templates.php:8
+msgid "Coming Soon Master"
+msgstr ""
+
+#: pages/about-us.php:11
+msgid "About Us Settings"
+msgstr ""
+
+#: pages/about-us.php:36
+msgid "Enable About us Section"
+msgstr ""
+
+#: pages/about-us.php:42 pages/dashboard.php:64
+msgid " ON/OFF "
+msgstr ""
+
+#: pages/about-us.php:44
+msgid "Switch it ON/OFF to enable/disable About Us Section."
+msgstr ""
+
+#: pages/about-us.php:49
+msgid "About Us Section Title"
+msgstr ""
+
+#: pages/about-us.php:59 pages/contact-info.php:58
+msgid "Title Background Text"
+msgstr ""
+
+#: pages/about-us.php:69
+msgid "About Us Description"
+msgstr ""
+
+#: pages/about-us.php:82
+msgid "About us Content"
+msgstr ""
+
+#: pages/about-us.php:97
+msgid "Put any text, media, html content to display in About Us section."
+msgstr ""
+
+#: pages/about-us.php:106 pages/basic-styling.php:102 pages/button.php:99
+#: pages/contact-info.php:160 pages/copyright.php:72
+#: pages/countdown-settings.php:191 pages/dashboard.php:110
+#: pages/logo-settings.php:103 pages/newsletter.php:132
+#: pages/seo-settings.php:83 pages/social-profile.php:108
+#: pages/subscription.php:112 pages/templates.php:187
+msgid "Save Changes"
+msgstr ""
+
+#: pages/about-us.php:107 pages/basic-styling.php:103 pages/button.php:100
+#: pages/contact-info.php:161 pages/copyright.php:73
+#: pages/countdown-settings.php:192 pages/dashboard.php:111
+#: pages/logo-settings.php:104 pages/newsletter.php:133
+#: pages/seo-settings.php:84 pages/social-profile.php:109
+#: pages/subscription.php:113 pages/templates.php:188
+msgid "Reset Section"
+msgstr ""
+
+#: pages/about-us.php:108 pages/basic-styling.php:104 pages/button.php:101
+#: pages/contact-info.php:162 pages/copyright.php:74
+#: pages/countdown-settings.php:193 pages/dashboard.php:112
+#: pages/logo-settings.php:105 pages/newsletter.php:134
+#: pages/seo-settings.php:85 pages/social-profile.php:110
+#: pages/subscription.php:114 pages/templates.php:189
+msgid "Reset All"
+msgstr ""
+
+#: pages/basic-styling.php:7
+msgid "BASIC STYLING"
+msgstr ""
+
+#: pages/basic-styling.php:11 pages/content.php:83
+msgid "Basic Styling"
+msgstr ""
+
+#: pages/basic-styling.php:29
+msgid "Preloader Settings"
+msgstr ""
+
+#: pages/basic-styling.php:36
+msgid "Enable Preloader"
+msgstr ""
+
+#: pages/basic-styling.php:42 pages/button.php:42 pages/button.php:75
+#: pages/contact-info.php:41 pages/countdown-settings.php:90
+#: pages/logo-settings.php:43 pages/templates.php:118
+msgid "ON/OFF"
+msgstr ""
+
+#: pages/basic-styling.php:44
+msgid "Switch it ON/OFF to enable/disable preloading effect."
+msgstr ""
+
+#: pages/basic-styling.php:49
+msgid "Preloder Text"
+msgstr ""
+
+#: pages/basic-styling.php:55
+msgid "This text will be display under the preloader."
+msgstr ""
+
+#: pages/basic-styling.php:64
+msgid "Plugin Color Schemes"
+msgstr ""
+
+#: pages/basic-styling.php:72 pages/contact-info.php:150
+#: pages/social-profile.php:98 pages/templates.php:178
+msgid ""
+"These features avaliable in <b>Pro Version</b>, click here to unlock these "
+"features."
+msgstr ""
+
+#: pages/basic-styling.php:81
+msgid "Custom CSS"
+msgstr ""
+
+#: pages/basic-styling.php:87
+msgid "Custom CSS Editor"
+msgstr ""
+
+#: pages/basic-styling.php:92
+msgid "Use custom css to customize front end template."
+msgstr ""
+
+#: pages/button.php:7
+msgid "BUTTON SETTINGS"
+msgstr ""
+
+#: pages/button.php:12 pages/content.php:79
+msgid "Button Settings"
+msgstr ""
+
+#: pages/button.php:29
+msgid "Read More Button Setting"
+msgstr ""
+
+#: pages/button.php:36 pages/button.php:69
+msgid "Enable Button"
+msgstr ""
+
+#: pages/button.php:44
+msgid "Switch it ON/OFF to enable/disable Read More Button."
+msgstr ""
+
+#: pages/button.php:49 pages/button.php:82
+msgid "Button Text"
+msgstr ""
+
+#: pages/button.php:62
+msgid "Newlatter Subscription Form Button"
+msgstr ""
+
+#: pages/button.php:77
+msgid "Switch it ON/OFF to enable/disable Newlatter Button."
+msgstr ""
+
+#: pages/button.php:88
+msgid "This button will be display when you enable newsletter option."
+msgstr ""
+
+#: pages/contact-info.php:7 pages/contact-info.php:28
+msgid "CONTACT INFORMATION"
+msgstr ""
+
+#: pages/contact-info.php:11 pages/content.php:89
+msgid "Contact Info"
+msgstr ""
+
+#: pages/contact-info.php:35
+msgid "Enable Contact Section"
+msgstr ""
+
+#: pages/contact-info.php:43
+msgid "Switch it ON/OFF to enable/disable Contact Section."
+msgstr ""
+
+#: pages/contact-info.php:48
+msgid "Contact Section Title"
+msgstr ""
+
+#: pages/contact-info.php:68
+msgid "Contact Section Description"
+msgstr ""
+
+#: pages/contact-info.php:80
+msgid "Add Your Contact Information"
+msgstr ""
+
+#: pages/contact-info.php:97
+msgid "Contact Number"
+msgstr ""
+
+#: pages/contact-info.php:107
+msgid "Address"
+msgstr ""
+
+#: pages/contact-info.php:121
+msgid "Add Your Google Map"
+msgstr ""
+
+#: pages/contact-info.php:128
+msgid "Google Map Url"
+msgstr ""
+
+#: pages/contact-info.php:133
+msgid "Enter your Google Map Url."
+msgstr ""
+
+#: pages/contact-info.php:133
+msgid " Click Here "
+msgstr ""
+
+#: pages/contact-info.php:133
+msgid "to know how you can get google map url?"
+msgstr ""
+
+#: pages/contact-info.php:142
+msgid "Send Mail/ Mailing Section Field Settings"
+msgstr ""
+
+#: pages/content.php:15
+msgid "Coming "
+msgstr ""
+
+#: pages/content.php:15
+msgid "Soon Master"
+msgstr ""
+
+#: pages/content.php:21
+msgid "Toggle navigation"
+msgstr ""
+
+#: pages/content.php:52
+msgid "Powered By"
+msgstr ""
+
+#: pages/content.php:54
+msgid "WEBHUNT INFOTECH"
+msgstr ""
+
+#: pages/content.php:60
+msgid "PLUGIN MENU"
+msgstr ""
+
+#: pages/content.php:62 pages/dashboard.php:34
+msgid "Dashboard"
+msgstr ""
+
+#: pages/content.php:65 pages/templates.php:11
+msgid "Templates"
+msgstr ""
+
+#: pages/content.php:76 pages/seo-settings.php:12
+msgid "SEO Settings"
+msgstr ""
+
+#: pages/content.php:77 pages/logo-settings.php:12 pages/logo-settings.php:30
+msgid "Logo Settings"
+msgstr ""
+
+#: pages/content.php:78 pages/countdown-settings.php:12
+msgid "Countdown Settings"
+msgstr ""
+
+#: pages/content.php:86
+msgid "About Us"
+msgstr ""
+
+#: pages/content.php:94
+msgid "Newsletter And Subscriber Settings"
+msgstr ""
+
+#: pages/content.php:100
+msgid "Newsletter Settings"
+msgstr ""
+
+#: pages/content.php:101
+msgid "Subscription Field Settings"
+msgstr ""
+
+#: pages/content.php:105 pages/social-profile.php:11
+msgid "Social Profile"
+msgstr ""
+
+#: pages/content.php:108 pages/copyright.php:11
+msgid "Copyright Settings"
+msgstr ""
+
+#: pages/content.php:111
+msgid "Our Products"
+msgstr ""
+
+#: pages/content.php:114
+msgid "Need Help"
+msgstr ""
+
+#: pages/content.php:144
+msgid "Anything you want"
+msgstr ""
+
+#: pages/content.php:147
+msgid "Copyright &copy; 2017"
+msgstr ""
+
+#: pages/content.php:147
+msgid "All rights reserved."
+msgstr ""
+
+#: pages/copyright.php:7
+msgid "Copyright Settigns"
+msgstr ""
+
+#: pages/copyright.php:29
+msgid "COPYRIGHT SETTINGS"
+msgstr ""
+
+#: pages/copyright.php:36
+msgid "Copyright Text"
+msgstr ""
+
+#: pages/copyright.php:46
+msgid "Developed by Link Text"
+msgstr ""
+
+#: pages/copyright.php:56
+msgid "Developed by Link"
+msgstr ""
+
+#: pages/countdown-settings.php:7
+msgid "COUNTDOWN SETTINGS"
+msgstr ""
+
+#: pages/countdown-settings.php:30
+msgid "Enable Countdown / Title"
+msgstr ""
+
+#: pages/countdown-settings.php:38
+msgid "Count Down"
+msgstr ""
+
+#: pages/countdown-settings.php:42
+msgid "Coming Soon Page Title"
+msgstr ""
+
+#: pages/countdown-settings.php:53
+msgid "Count Down Settings"
+msgstr ""
+
+#: pages/countdown-settings.php:60
+msgid "Date & Time Settings"
+msgstr ""
+
+#: pages/countdown-settings.php:64
+msgid "End Date"
+msgstr ""
+
+#: pages/countdown-settings.php:74
+msgid "End Time"
+msgstr ""
+
+#: pages/countdown-settings.php:84
+msgid "Enable UTC"
+msgstr ""
+
+#: pages/countdown-settings.php:92
+msgid ""
+"<b>Coordinated Universal Time (UTC)</b>. This Feature is avaliable in <b>Pro "
+"Version</b> only."
+msgstr ""
+
+#: pages/countdown-settings.php:102
+msgid "Language Strings"
+msgstr ""
+
+#: pages/countdown-settings.php:106
+msgid "Days"
+msgstr ""
+
+#: pages/countdown-settings.php:150
+msgid "Coming Soon Page Title Settings"
+msgstr ""
+
+#: pages/countdown-settings.php:157
+msgid "Coming Soon Title"
+msgstr ""
+
+#: pages/countdown-settings.php:162
+msgid "Use"
+msgstr ""
+
+#: pages/countdown-settings.php:162
+msgid "&lt;span&gt; &lt;/span&gt;"
+msgstr ""
+
+#: pages/countdown-settings.php:162
+msgid "tag to highlight any word in title text."
+msgstr ""
+
+#: pages/countdown-settings.php:171
+msgid "Coming Soon Page Description"
+msgstr ""
+
+#: pages/countdown-settings.php:177
+msgid "Coming Soon Description"
+msgstr ""
+
+#: pages/dashboard.php:30
+msgid "DASHBOARD"
+msgstr ""
+
+#: pages/dashboard.php:52
+msgid "DASHBOARD SETTINGS"
+msgstr ""
+
+#: pages/dashboard.php:58
+msgid "Enable Coming Soon "
+msgstr ""
+
+#: pages/dashboard.php:66
+msgid "Switch it ON/OFF to enable/disable Coming Soon Mode."
+msgstr ""
+
+#: pages/dashboard.php:74
+msgid "Skip Page For "
+msgstr ""
+
+#: pages/dashboard.php:78
+msgid "Administrators"
+msgstr ""
+
+#: pages/dashboard.php:82
+msgid "Editors"
+msgstr ""
+
+#: pages/dashboard.php:86
+msgid "Subscribers"
+msgstr ""
+
+#: pages/dashboard.php:88
+msgid "Select user roles to skip maintenance mode/ coming soon page."
+msgstr ""
+
+#: pages/dashboard.php:95
+msgid "Skip Page for These IPs "
+msgstr ""
+
+#: pages/dashboard.php:100
+msgid "Type only one IP address in a line."
+msgstr ""
+
+#: pages/dashboard.php:100
+msgid "Whitelist IP addresses to skip maintenance mode/ coming soon page."
+msgstr ""
+
+#: pages/help.php:7
+msgid "Need Help!"
+msgstr ""
+
+#: pages/help.php:11
+msgid "Help"
+msgstr ""
+
+#: pages/help.php:28
+msgid "Welcome to Coming Soon Master "
+msgstr ""
+
+#: pages/help.php:35
+msgid "What's New?"
+msgstr ""
+
+#: pages/help.php:38
+msgid "NEW!"
+msgstr ""
+
+#: pages/help.php:40 pages/help.php:41 pages/help.php:50 pages/help.php:60
+#: pages/help.php:61 pages/help.php:62 pages/help.php:70
+msgid "Fixed"
+msgstr ""
+
+#: pages/help.php:40
+msgid "Sidebar issue fixed"
+msgstr ""
+
+#: pages/help.php:41
+msgid "Few other improvements"
+msgstr ""
+
+#: pages/help.php:42
+msgid "Tested"
+msgstr ""
+
+#: pages/help.php:42
+msgid "Tested with latest wordpress version"
+msgstr ""
+
+#: pages/help.php:50 pages/help.php:60 pages/help.php:70
+msgid "Minor bugs fixed"
+msgstr ""
+
+#: pages/help.php:58 pages/help.php:59
+msgid "Added"
+msgstr ""
+
+#: pages/help.php:58
+msgid "Button Settings Tab Added"
+msgstr ""
+
+#: pages/help.php:59
+msgid "Now Enable/Disable Button From Button Settings Tab"
+msgstr ""
+
+#: pages/help.php:61
+msgid "Page Settings Tab Name Changed To Logo Settings"
+msgstr ""
+
+#: pages/help.php:62
+msgid "Home Description Option Avaliable In Countdown Settings Tab"
+msgstr ""
+
+#: pages/help.php:71
+msgid "Size"
+msgstr ""
+
+#: pages/help.php:71
+msgid "Reduce package size"
+msgstr ""
+
+#: pages/help.php:77
+msgid "Why You Should Go "
+msgstr ""
+
+#: pages/help.php:77
+msgid "Premium?"
+msgstr ""
+
+#: pages/help.php:78
+msgid ""
+"Premium version gives you full access to all premium tools for lifetime "
+"without any limitations. You can buy premium version for flat one time fee "
+"of <b>$14</b>."
+msgstr ""
+
+#: pages/help.php:79
+msgid "Buy Now"
+msgstr ""
+
+#: pages/help.php:85
+msgid "Loving "
+msgstr ""
+
+#: pages/help.php:85
+msgid "Coming Soon Master?"
+msgstr ""
+
+#: pages/help.php:86
+msgid ""
+"Thank you for choosing Coming Soon Master in your WordPress installation."
+msgstr ""
+
+#: pages/help.php:87
+msgid ""
+"Do you mind taking a minute to support us by adding a review? Your feedback "
+"is very important to us."
+msgstr ""
+
+#: pages/help.php:88
+msgid "Add a Review on WordPress"
+msgstr ""
+
+#: pages/help.php:92
+msgid "Need Help?"
+msgstr ""
+
+#: pages/help.php:93
+msgid ""
+"For superior help you can visit plugin documentation page. If you didn't "
+"found your solution there, we have an acting fast support for you. Post your "
+"question in WordPress support forum."
+msgstr ""
+
+#: pages/help.php:94
+msgid "Documentation"
+msgstr ""
+
+#: pages/help.php:95
+msgid "Support Forum"
+msgstr ""
+
+#: pages/help.php:99
+msgid "Watch Tutorial"
+msgstr ""
+
+#: pages/logo-settings.php:7
+msgid "LOGO SETTINGS"
+msgstr ""
+
+#: pages/logo-settings.php:37
+msgid "Display Logo"
+msgstr ""
+
+#: pages/logo-settings.php:45
+msgid "Switch it ON/OFF to enable/disable your site Logo."
+msgstr ""
+
+#: pages/logo-settings.php:50
+msgid "Upload Logo"
+msgstr ""
+
+#: pages/logo-settings.php:55 pages/seo-settings.php:42 pages/templates.php:92
+msgid "Upload Image"
+msgstr ""
+
+#: pages/logo-settings.php:63
+msgid "Logo Width"
+msgstr ""
+
+#: pages/logo-settings.php:70 pages/logo-settings.php:82
+#: pages/templates.php:142
+msgid "px"
+msgstr ""
+
+#: pages/logo-settings.php:75
+msgid "Logo Height"
+msgstr ""
+
+#: pages/logo-settings.php:87
+msgid "Logo Link URL"
+msgstr ""
+
+#: pages/newsletter.php:7 pages/newsletter.php:32
+msgid "NEWSLETTER SETTINGS"
+msgstr ""
+
+#: pages/newsletter.php:11 pages/subscription.php:11
+msgid "Newsletter And Subscriber"
+msgstr ""
+
+#: pages/newsletter.php:12
+msgid "Newsletter"
+msgstr ""
+
+#: pages/newsletter.php:38
+msgid "Newsletter Options"
+msgstr ""
+
+#: pages/newsletter.php:43
+msgid "Do not display sign up field"
+msgstr ""
+
+#: pages/newsletter.php:44
+msgid "Using Wp Mail"
+msgstr ""
+
+#: pages/newsletter.php:45
+msgid "MailChimp Using (Avaliable in Pro)"
+msgstr ""
+
+#: pages/newsletter.php:50
+msgid "Please install & setup Postman plugin to use this feature."
+msgstr ""
+
+#: pages/newsletter.php:50
+msgid " Click Here"
+msgstr ""
+
+#: pages/newsletter.php:57
+msgid "Confirmation Mail For Subscriber After Subscribe"
+msgstr ""
+
+#: pages/newsletter.php:63 pages/newsletter.php:90
+msgid "Subject"
+msgstr ""
+
+#: pages/newsletter.php:73 pages/newsletter.php:100
+msgid "Message Body"
+msgstr ""
+
+#: pages/newsletter.php:84
+msgid "Notification Mail To Admin After Subscribe By User"
+msgstr ""
+
+#: pages/newsletter.php:111
+msgid "Email Address for Get Notification Mail"
+msgstr ""
+
+#: pages/products.php:7
+msgid "Premium Product Page"
+msgstr ""
+
+#: pages/products.php:8
+msgid "By WebHunt Infotech"
+msgstr ""
+
+#: pages/products.php:11
+msgid "Shop Page"
+msgstr ""
+
+#: pages/products.php:28
+msgid "WebHunt Premium Products Showcase"
+msgstr ""
+
+#: pages/products.php:43
+msgid "iCare Premium"
+msgstr ""
+
+#: pages/products.php:47 pages/products.php:66 pages/products.php:89
+#: pages/products.php:108
+msgid "View Demo"
+msgstr ""
+
+#: pages/products.php:62
+msgid "Elixar Premium"
+msgstr ""
+
+#: pages/products.php:85
+msgid "Kyma Advanced"
+msgstr ""
+
+#: pages/products.php:104
+msgid "Ultimate Gallery Master Pro"
+msgstr ""
+
+#: pages/seo-settings.php:7
+msgid "S.E.O. SETTINGS"
+msgstr ""
+
+#: pages/seo-settings.php:32
+msgid "SEO SETTINGS"
+msgstr ""
+
+#: pages/seo-settings.php:39
+msgid "Upload Favicon Icon"
+msgstr ""
+
+#: pages/seo-settings.php:48
+msgid "SEO Meta Title"
+msgstr ""
+
+#: pages/seo-settings.php:54
+msgid "This will be the title of the coming soon page."
+msgstr ""
+
+#: pages/seo-settings.php:59
+msgid "SEO Meta Description"
+msgstr ""
+
+#: pages/seo-settings.php:68
+msgid "Google Analytics"
+msgstr ""
+
+#: pages/social-profile.php:7 pages/social-profile.php:31
+msgid "SOCIAL PROFILES"
+msgstr ""
+
+#: pages/social-profile.php:37
+msgid "Facebook"
+msgstr ""
+
+#: pages/social-profile.php:47
+msgid "Twitter Id"
+msgstr ""
+
+#: pages/social-profile.php:57
+msgid "Linkedin"
+msgstr ""
+
+#: pages/social-profile.php:67
+msgid "Google Plus"
+msgstr ""
+
+#: pages/social-profile.php:77
+msgid "YouTube"
+msgstr ""
+
+#: pages/social-profile.php:87
+msgid "Pinterest"
+msgstr ""
+
+#: pages/subscription.php:7 pages/subscription.php:30
+msgid "SUBSCRIPTION SETTINGS"
+msgstr ""
+
+#: pages/subscription.php:37
+msgid "Subscription Image"
+msgstr ""
+
+#: pages/subscription.php:41
+msgid "Upload image"
+msgstr ""
+
+#: pages/subscription.php:48
+msgid "Subscription Title"
+msgstr ""
+
+#: pages/subscription.php:58
+msgid "Subscription Description"
+msgstr ""
+
+#: pages/subscription.php:67
+msgid "Subscription Field Title"
+msgstr ""
+
+#: pages/subscription.php:77
+msgid "Subscription Button Text"
+msgstr ""
+
+#: pages/subscription.php:92
+msgid "After Success Subscription Notification Text"
+msgstr ""
+
+#: pages/subscription.php:101
+msgid "Thank you message after a successful subscription."
+msgstr ""
+
+#: pages/templates.php:7
+msgid "TEMPLATE PAGE"
+msgstr ""
+
+#: pages/templates.php:29
+msgid "TEMPLATE STYLE"
+msgstr ""
+
+#: pages/templates.php:36
+msgid "Select Template"
+msgstr ""
+
+#: pages/templates.php:41
+msgid "Flate Color"
+msgstr ""
+
+#: pages/templates.php:42
+msgid "Image"
+msgstr ""
+
+#: pages/templates.php:43
+msgid "Flat color     (mp3 audio) - Avaliable in PRO"
+msgstr ""
+
+#: pages/templates.php:44
+msgid "Image          (mp3 audio) - Avaliable in PRO"
+msgstr ""
+
+#: pages/templates.php:45
+msgid "Slideshow - Avaliable in PRO"
+msgstr ""
+
+#: pages/templates.php:46
+msgid "Slideshow      (mp3 audio) - Avaliable in PRO"
+msgstr ""
+
+#: pages/templates.php:47
+msgid "Slideshow      (zoom) - Avaliable in PRO"
+msgstr ""
+
+#: pages/templates.php:48
+msgid "Slideshow      (zoom, mp3 audio) - Avaliable in PRO"
+msgstr ""
+
+#: pages/templates.php:49
+msgid "Html5 Video    (mute) - Avaliable in PRO"
+msgstr ""
+
+#: pages/templates.php:50
+msgid "Html5 Video    (video audio) - Avaliable in PRO"
+msgstr ""
+
+#: pages/templates.php:51
+msgid "Html5 Video   (mp3 audio) - Avaliable in PRO"
+msgstr ""
+
+#: pages/templates.php:52
+msgid "Youtube Video (mute) - Avaliable in PRO"
+msgstr ""
+
+#: pages/templates.php:53
+msgid "Youtube Video (video audio) - Avaliable in PRO"
+msgstr ""
+
+#: pages/templates.php:54
+msgid "Youtube Video (youtube, mp3 audio) - Avaliable in PRO"
+msgstr ""
+
+#: pages/templates.php:68
+msgid "Color Background Settings"
+msgstr ""
+
+#: pages/templates.php:72
+msgid "Choose Background Color"
+msgstr ""
+
+#: pages/templates.php:88
+msgid "Upload Background Image"
+msgstr ""
+
+#: pages/templates.php:94
+msgid "Remove"
+msgstr ""
+
+#: pages/templates.php:105
+msgid "Site Background Overlay Settings"
+msgstr ""
+
+#: pages/templates.php:112
+msgid "Enable Overlay Color"
+msgstr ""
+
+#: pages/templates.php:120
+msgid "Switch it ON/OFF to enable/disable Site Background Overlay."
+msgstr ""
+
+#: pages/templates.php:125
+msgid "Overlay Color"
+msgstr ""
+
+#: pages/templates.php:130
+msgid ""
+"Overlay color doesnt mean home section background color.<br/> Its overlay "
+"color on background."
+msgstr ""
+
+#: pages/templates.php:135
+msgid "Overlay Color Opacity"
+msgstr ""
+
+#: pages/templates.php:147
+msgid "Home Display Style"
+msgstr ""
+
+#: pages/templates.php:152
+msgid "Full Width"
+msgstr ""
+
+#: pages/templates.php:156
+msgid "Half Left"
+msgstr ""
+
+#: pages/templates.php:160
+msgid "Half Right"
+msgstr ""
+
+#: pages/templates.php:163
+msgid "Half Left & Half Right options avaliable in <b>Pro Version</b> only."
+msgstr ""
+
+#: pages/templates.php:172
+msgid "Template Background Animation"
+msgstr ""
+
+#: redirect.php:87
+msgid "Coming Soon Mode Active"
+msgstr ""
